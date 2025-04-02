@@ -23,7 +23,7 @@ Estudando _Desenvolvimento de Sistemas_ na Proz Educação.
 
 ## Hobbies:
 - Futebol 
-- Teatro
+- Videogame
 
 <hr>
 
